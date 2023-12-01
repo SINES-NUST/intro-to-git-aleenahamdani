@@ -30,6 +30,6 @@ In this semester, particularly in this course, i learnt about:
 # **Still confused????** :skull_and_crossbones:	
 ![CONFUSION???](2.jpg)
 
-I still do not understand properly about the push and pull command. Its a bit confusing specially if you create local repo on pc and then merge changes on git hub website. 
+I still do not understand properly about the push and pull command. Its a bit confusing specially if you create local repo on pc and then merge changes on git hub website. Besides, i still need to understand the concept of meging branches and how they are visible on the main repo.
 <br>
 Umm, and when it comes to the entire course, what i am still confused is, i guess how to code fast or write long codes, lol. Or particularly how to interpret the question in exam and get good grades. XD 
